@@ -11,7 +11,7 @@ gem 'tzinfo-data'
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'rspec-rails', '~> 3.5'
-  gem 'rubocop', require: false
+  # gem 'rubocop', require: false
 end
 
 group :development do
