@@ -4,3 +4,4 @@
 
 build trigger A
 build trigger B
+trigger C
