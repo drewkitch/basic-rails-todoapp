@@ -7,7 +7,7 @@ gem 'puma', '~> 3.0'
 gem 'rack-cors'
 gem 'rails', '~> 5.0.2'
 gem 'tzinfo-data'
-gem 'nokogiri', '~> 1.8.1'
+gem 'nokogiri', '~> 1.10.8'
 
 group :development, :test do
   gem 'byebug', platform: :mri
